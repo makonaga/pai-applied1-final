@@ -1,0 +1,1407 @@
+{
+ "name": "carrot_test",
+ "food": "carrot",
+ "seed": 1,
+ "pieces": [
+  {
+   "name": "carrot_0000",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 9.039,
+   "mass_kg": 0.0094,
+   "extents_mm": [
+    27.3,
+    24.7,
+    24.2
+   ],
+   "min_width_mm": 21.8,
+   "n_vertices": 58
+  },
+  {
+   "name": "carrot_0001",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.999,
+   "mass_kg": 0.00832,
+   "extents_mm": [
+    25.4,
+    28.8,
+    22.4
+   ],
+   "min_width_mm": 22.4,
+   "n_vertices": 58
+  },
+  {
+   "name": "carrot_0002",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 7.428,
+   "mass_kg": 0.00772,
+   "extents_mm": [
+    27.9,
+    24.2,
+    18.0
+   ],
+   "min_width_mm": 18.0,
+   "n_vertices": 70
+  },
+  {
+   "name": "carrot_0003",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 9.734,
+   "mass_kg": 0.01012,
+   "extents_mm": [
+    34.6,
+    25.0,
+    22.9
+   ],
+   "min_width_mm": 22.8,
+   "n_vertices": 86
+  },
+  {
+   "name": "carrot_0004",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 9.91,
+   "mass_kg": 0.01031,
+   "extents_mm": [
+    28.8,
+    30.5,
+    24.7
+   ],
+   "min_width_mm": 24.7,
+   "n_vertices": 52
+  },
+  {
+   "name": "carrot_0005",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 8.366,
+   "mass_kg": 0.0087,
+   "extents_mm": [
+    28.0,
+    21.3,
+    20.1
+   ],
+   "min_width_mm": 20.1,
+   "n_vertices": 80
+  },
+  {
+   "name": "carrot_0006",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 6.541,
+   "mass_kg": 0.0068,
+   "extents_mm": [
+    29.0,
+    23.4,
+    19.7
+   ],
+   "min_width_mm": 19.7,
+   "n_vertices": 80
+  },
+  {
+   "name": "carrot_0007",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.319,
+   "mass_kg": 0.00761,
+   "extents_mm": [
+    28.7,
+    27.5,
+    23.0
+   ],
+   "min_width_mm": 21.3,
+   "n_vertices": 56
+  },
+  {
+   "name": "carrot_0008",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 6.665,
+   "mass_kg": 0.00693,
+   "extents_mm": [
+    19.5,
+    20.7,
+    18.1
+   ],
+   "min_width_mm": 18.1,
+   "n_vertices": 42
+  },
+  {
+   "name": "carrot_0009",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 9.004,
+   "mass_kg": 0.00936,
+   "extents_mm": [
+    25.9,
+    27.0,
+    23.2
+   ],
+   "min_width_mm": 23.2,
+   "n_vertices": 104
+  },
+  {
+   "name": "carrot_0010",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 9.339,
+   "mass_kg": 0.00971,
+   "extents_mm": [
+    24.6,
+    28.4,
+    22.4
+   ],
+   "min_width_mm": 22.2,
+   "n_vertices": 64
+  },
+  {
+   "name": "carrot_0011",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 9.526,
+   "mass_kg": 0.00991,
+   "extents_mm": [
+    30.3,
+    24.8,
+    16.3
+   ],
+   "min_width_mm": 16.3,
+   "n_vertices": 66
+  },
+  {
+   "name": "carrot_0012",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.112,
+   "mass_kg": 0.0074,
+   "extents_mm": [
+    24.7,
+    22.0,
+    21.6
+   ],
+   "min_width_mm": 20.8,
+   "n_vertices": 64
+  },
+  {
+   "name": "carrot_0013",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 9.393,
+   "mass_kg": 0.00977,
+   "extents_mm": [
+    28.2,
+    30.2,
+    26.0
+   ],
+   "min_width_mm": 22.0,
+   "n_vertices": 84
+  },
+  {
+   "name": "carrot_0014",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 10.422,
+   "mass_kg": 0.01084,
+   "extents_mm": [
+    23.9,
+    23.1,
+    21.6
+   ],
+   "min_width_mm": 21.6,
+   "n_vertices": 88
+  },
+  {
+   "name": "carrot_0015",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 8.854,
+   "mass_kg": 0.00921,
+   "extents_mm": [
+    30.3,
+    27.1,
+    24.1
+   ],
+   "min_width_mm": 24.1,
+   "n_vertices": 56
+  },
+  {
+   "name": "carrot_0016",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 8.516,
+   "mass_kg": 0.00886,
+   "extents_mm": [
+    29.6,
+    27.4,
+    24.4
+   ],
+   "min_width_mm": 20.8,
+   "n_vertices": 64
+  },
+  {
+   "name": "carrot_0017",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 7.309,
+   "mass_kg": 0.0076,
+   "extents_mm": [
+    20.0,
+    23.4,
+    17.4
+   ],
+   "min_width_mm": 17.4,
+   "n_vertices": 44
+  },
+  {
+   "name": "carrot_0018",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.81,
+   "mass_kg": 0.00812,
+   "extents_mm": [
+    22.9,
+    27.0,
+    21.8
+   ],
+   "min_width_mm": 21.8,
+   "n_vertices": 96
+  },
+  {
+   "name": "carrot_0019",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 6.794,
+   "mass_kg": 0.00707,
+   "extents_mm": [
+    25.1,
+    27.1,
+    23.4
+   ],
+   "min_width_mm": 20.2,
+   "n_vertices": 48
+  },
+  {
+   "name": "carrot_0020",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 8.311,
+   "mass_kg": 0.00864,
+   "extents_mm": [
+    24.2,
+    25.1,
+    20.3
+   ],
+   "min_width_mm": 20.3,
+   "n_vertices": 102
+  },
+  {
+   "name": "carrot_0021",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 8.959,
+   "mass_kg": 0.00932,
+   "extents_mm": [
+    33.1,
+    25.2,
+    22.0
+   ],
+   "min_width_mm": 22.0,
+   "n_vertices": 58
+  },
+  {
+   "name": "carrot_0022",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 8.263,
+   "mass_kg": 0.00859,
+   "extents_mm": [
+    27.8,
+    26.5,
+    23.9
+   ],
+   "min_width_mm": 22.7,
+   "n_vertices": 54
+  },
+  {
+   "name": "carrot_0023",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 10.874,
+   "mass_kg": 0.01131,
+   "extents_mm": [
+    22.7,
+    26.4,
+    20.5
+   ],
+   "min_width_mm": 20.5,
+   "n_vertices": 76
+  },
+  {
+   "name": "carrot_0024",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 4.708,
+   "mass_kg": 0.0049,
+   "extents_mm": [
+    28.5,
+    21.9,
+    19.2
+   ],
+   "min_width_mm": 18.9,
+   "n_vertices": 66
+  },
+  {
+   "name": "carrot_0025",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 6.15,
+   "mass_kg": 0.0064,
+   "extents_mm": [
+    24.6,
+    25.3,
+    20.3
+   ],
+   "min_width_mm": 18.9,
+   "n_vertices": 40
+  },
+  {
+   "name": "carrot_0026",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 8.623,
+   "mass_kg": 0.00897,
+   "extents_mm": [
+    22.4,
+    21.2,
+    20.3
+   ],
+   "min_width_mm": 20.3,
+   "n_vertices": 58
+  },
+  {
+   "name": "carrot_0027",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.875,
+   "mass_kg": 0.00819,
+   "extents_mm": [
+    25.1,
+    27.8,
+    22.0
+   ],
+   "min_width_mm": 21.4,
+   "n_vertices": 72
+  },
+  {
+   "name": "carrot_0028",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.982,
+   "mass_kg": 0.0083,
+   "extents_mm": [
+    26.6,
+    30.6,
+    24.0
+   ],
+   "min_width_mm": 21.2,
+   "n_vertices": 66
+  },
+  {
+   "name": "carrot_0029",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 7.921,
+   "mass_kg": 0.00824,
+   "extents_mm": [
+    19.6,
+    21.9,
+    18.9
+   ],
+   "min_width_mm": 18.9,
+   "n_vertices": 32
+  },
+  {
+   "name": "carrot_0030",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 13.491,
+   "mass_kg": 0.01403,
+   "extents_mm": [
+    30.4,
+    30.5,
+    22.2
+   ],
+   "min_width_mm": 22.2,
+   "n_vertices": 104
+  },
+  {
+   "name": "carrot_0031",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.165,
+   "mass_kg": 0.00745,
+   "extents_mm": [
+    34.3,
+    22.0,
+    19.4
+   ],
+   "min_width_mm": 19.4,
+   "n_vertices": 70
+  },
+  {
+   "name": "carrot_0032",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 10.516,
+   "mass_kg": 0.01094,
+   "extents_mm": [
+    29.8,
+    23.8,
+    20.3
+   ],
+   "min_width_mm": 20.3,
+   "n_vertices": 60
+  },
+  {
+   "name": "carrot_0033",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 11.153,
+   "mass_kg": 0.0116,
+   "extents_mm": [
+    27.8,
+    34.0,
+    22.2
+   ],
+   "min_width_mm": 22.2,
+   "n_vertices": 70
+  },
+  {
+   "name": "carrot_0034",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.114,
+   "mass_kg": 0.0074,
+   "extents_mm": [
+    26.3,
+    31.6,
+    22.4
+   ],
+   "min_width_mm": 22.3,
+   "n_vertices": 52
+  },
+  {
+   "name": "carrot_0035",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 9.458,
+   "mass_kg": 0.00984,
+   "extents_mm": [
+    30.7,
+    19.5,
+    17.6
+   ],
+   "min_width_mm": 17.6,
+   "n_vertices": 76
+  },
+  {
+   "name": "carrot_0036",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 6.947,
+   "mass_kg": 0.00723,
+   "extents_mm": [
+    25.7,
+    25.1,
+    20.6
+   ],
+   "min_width_mm": 20.3,
+   "n_vertices": 58
+  },
+  {
+   "name": "carrot_0037",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 6.177,
+   "mass_kg": 0.00642,
+   "extents_mm": [
+    20.0,
+    34.3,
+    18.5
+   ],
+   "min_width_mm": 18.2,
+   "n_vertices": 60
+  },
+  {
+   "name": "carrot_0038",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 8.715,
+   "mass_kg": 0.00906,
+   "extents_mm": [
+    23.7,
+    20.3,
+    18.9
+   ],
+   "min_width_mm": 18.9,
+   "n_vertices": 40
+  },
+  {
+   "name": "carrot_0039",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 6.194,
+   "mass_kg": 0.00644,
+   "extents_mm": [
+    24.6,
+    30.6,
+    19.4
+   ],
+   "min_width_mm": 19.4,
+   "n_vertices": 54
+  },
+  {
+   "name": "carrot_0040",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 5.655,
+   "mass_kg": 0.00588,
+   "extents_mm": [
+    23.3,
+    25.4,
+    21.9
+   ],
+   "min_width_mm": 19.2,
+   "n_vertices": 50
+  },
+  {
+   "name": "carrot_0041",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 8.105,
+   "mass_kg": 0.00843,
+   "extents_mm": [
+    21.4,
+    24.1,
+    17.8
+   ],
+   "min_width_mm": 17.8,
+   "n_vertices": 68
+  },
+  {
+   "name": "carrot_0042",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 8.392,
+   "mass_kg": 0.00873,
+   "extents_mm": [
+    28.1,
+    25.1,
+    24.2
+   ],
+   "min_width_mm": 23.7,
+   "n_vertices": 52
+  },
+  {
+   "name": "carrot_0043",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.241,
+   "mass_kg": 0.00753,
+   "extents_mm": [
+    23.3,
+    32.2,
+    20.1
+   ],
+   "min_width_mm": 19.4,
+   "n_vertices": 58
+  },
+  {
+   "name": "carrot_0044",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 8.815,
+   "mass_kg": 0.00917,
+   "extents_mm": [
+    22.7,
+    22.7,
+    20.2
+   ],
+   "min_width_mm": 20.2,
+   "n_vertices": 40
+  },
+  {
+   "name": "carrot_0045",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.426,
+   "mass_kg": 0.00772,
+   "extents_mm": [
+    31.6,
+    22.5,
+    20.2
+   ],
+   "min_width_mm": 20.2,
+   "n_vertices": 64
+  },
+  {
+   "name": "carrot_0046",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 9.76,
+   "mass_kg": 0.01015,
+   "extents_mm": [
+    31.9,
+    27.4,
+    25.7
+   ],
+   "min_width_mm": 22.6,
+   "n_vertices": 78
+  },
+  {
+   "name": "carrot_0047",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 14.307,
+   "mass_kg": 0.01488,
+   "extents_mm": [
+    26.9,
+    26.1,
+    25.0
+   ],
+   "min_width_mm": 25.0,
+   "n_vertices": 66
+  },
+  {
+   "name": "carrot_0048",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 8.188,
+   "mass_kg": 0.00852,
+   "extents_mm": [
+    27.5,
+    29.4,
+    23.7
+   ],
+   "min_width_mm": 23.7,
+   "n_vertices": 72
+  },
+  {
+   "name": "carrot_0049",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.187,
+   "mass_kg": 0.00747,
+   "extents_mm": [
+    32.6,
+    20.2,
+    19.5
+   ],
+   "min_width_mm": 19.5,
+   "n_vertices": 54
+  },
+  {
+   "name": "carrot_0050",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 6.445,
+   "mass_kg": 0.0067,
+   "extents_mm": [
+    21.3,
+    21.7,
+    19.9
+   ],
+   "min_width_mm": 19.0,
+   "n_vertices": 58
+  },
+  {
+   "name": "carrot_0051",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 11.272,
+   "mass_kg": 0.01172,
+   "extents_mm": [
+    31.5,
+    33.2,
+    27.8
+   ],
+   "min_width_mm": 25.8,
+   "n_vertices": 102
+  },
+  {
+   "name": "carrot_0052",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 13.48,
+   "mass_kg": 0.01402,
+   "extents_mm": [
+    27.9,
+    32.2,
+    27.6
+   ],
+   "min_width_mm": 27.0,
+   "n_vertices": 92
+  },
+  {
+   "name": "carrot_0053",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 5.088,
+   "mass_kg": 0.00529,
+   "extents_mm": [
+    21.9,
+    17.2,
+    16.1
+   ],
+   "min_width_mm": 16.1,
+   "n_vertices": 68
+  },
+  {
+   "name": "carrot_0054",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 9.601,
+   "mass_kg": 0.00998,
+   "extents_mm": [
+    29.7,
+    31.6,
+    22.1
+   ],
+   "min_width_mm": 22.1,
+   "n_vertices": 84
+  },
+  {
+   "name": "carrot_0055",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.017,
+   "mass_kg": 0.0073,
+   "extents_mm": [
+    23.9,
+    30.7,
+    20.0
+   ],
+   "min_width_mm": 18.7,
+   "n_vertices": 72
+  },
+  {
+   "name": "carrot_0056",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 8.107,
+   "mass_kg": 0.00843,
+   "extents_mm": [
+    20.5,
+    23.3,
+    19.4
+   ],
+   "min_width_mm": 19.4,
+   "n_vertices": 50
+  },
+  {
+   "name": "carrot_0057",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.817,
+   "mass_kg": 0.00813,
+   "extents_mm": [
+    26.3,
+    26.6,
+    21.4
+   ],
+   "min_width_mm": 21.4,
+   "n_vertices": 60
+  },
+  {
+   "name": "carrot_0058",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 12.508,
+   "mass_kg": 0.01301,
+   "extents_mm": [
+    30.5,
+    27.4,
+    25.9
+   ],
+   "min_width_mm": 25.9,
+   "n_vertices": 66
+  },
+  {
+   "name": "carrot_0059",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 9.094,
+   "mass_kg": 0.00946,
+   "extents_mm": [
+    25.6,
+    22.0,
+    21.4
+   ],
+   "min_width_mm": 21.4,
+   "n_vertices": 102
+  },
+  {
+   "name": "carrot_0060",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 9.304,
+   "mass_kg": 0.00968,
+   "extents_mm": [
+    32.1,
+    26.3,
+    22.0
+   ],
+   "min_width_mm": 22.0,
+   "n_vertices": 78
+  },
+  {
+   "name": "carrot_0061",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 10.346,
+   "mass_kg": 0.01076,
+   "extents_mm": [
+    28.0,
+    27.9,
+    22.9
+   ],
+   "min_width_mm": 22.9,
+   "n_vertices": 82
+  },
+  {
+   "name": "carrot_0062",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 11.022,
+   "mass_kg": 0.01146,
+   "extents_mm": [
+    25.2,
+    28.5,
+    18.8
+   ],
+   "min_width_mm": 18.8,
+   "n_vertices": 72
+  },
+  {
+   "name": "carrot_0063",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 8.034,
+   "mass_kg": 0.00836,
+   "extents_mm": [
+    34.1,
+    23.4,
+    20.6
+   ],
+   "min_width_mm": 20.6,
+   "n_vertices": 90
+  },
+  {
+   "name": "carrot_0064",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.492,
+   "mass_kg": 0.00779,
+   "extents_mm": [
+    27.4,
+    23.5,
+    21.9
+   ],
+   "min_width_mm": 21.9,
+   "n_vertices": 100
+  },
+  {
+   "name": "carrot_0065",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 7.786,
+   "mass_kg": 0.0081,
+   "extents_mm": [
+    18.5,
+    30.2,
+    17.2
+   ],
+   "min_width_mm": 17.2,
+   "n_vertices": 40
+  },
+  {
+   "name": "carrot_0066",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 10.09,
+   "mass_kg": 0.01049,
+   "extents_mm": [
+    30.0,
+    26.2,
+    22.9
+   ],
+   "min_width_mm": 22.9,
+   "n_vertices": 78
+  },
+  {
+   "name": "carrot_0067",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.459,
+   "mass_kg": 0.00776,
+   "extents_mm": [
+    23.0,
+    30.9,
+    22.6
+   ],
+   "min_width_mm": 20.2,
+   "n_vertices": 80
+  },
+  {
+   "name": "carrot_0068",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 10.238,
+   "mass_kg": 0.01065,
+   "extents_mm": [
+    27.1,
+    23.4,
+    19.5
+   ],
+   "min_width_mm": 19.5,
+   "n_vertices": 72
+  },
+  {
+   "name": "carrot_0069",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 9.175,
+   "mass_kg": 0.00954,
+   "extents_mm": [
+    26.5,
+    27.8,
+    24.1
+   ],
+   "min_width_mm": 24.1,
+   "n_vertices": 68
+  },
+  {
+   "name": "carrot_0070",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 10.697,
+   "mass_kg": 0.01113,
+   "extents_mm": [
+    32.5,
+    26.9,
+    24.0
+   ],
+   "min_width_mm": 23.3,
+   "n_vertices": 44
+  },
+  {
+   "name": "carrot_0071",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 10.486,
+   "mass_kg": 0.01091,
+   "extents_mm": [
+    23.1,
+    24.7,
+    20.8
+   ],
+   "min_width_mm": 20.8,
+   "n_vertices": 46
+  },
+  {
+   "name": "carrot_0072",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 9.164,
+   "mass_kg": 0.00953,
+   "extents_mm": [
+    27.5,
+    25.9,
+    22.4
+   ],
+   "min_width_mm": 22.4,
+   "n_vertices": 48
+  },
+  {
+   "name": "carrot_0073",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.855,
+   "mass_kg": 0.00817,
+   "extents_mm": [
+    25.4,
+    32.2,
+    21.9
+   ],
+   "min_width_mm": 21.6,
+   "n_vertices": 50
+  },
+  {
+   "name": "carrot_0074",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 5.062,
+   "mass_kg": 0.00526,
+   "extents_mm": [
+    17.5,
+    21.3,
+    17.1
+   ],
+   "min_width_mm": 17.1,
+   "n_vertices": 74
+  },
+  {
+   "name": "carrot_0075",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 6.309,
+   "mass_kg": 0.00656,
+   "extents_mm": [
+    23.0,
+    24.3,
+    20.7
+   ],
+   "min_width_mm": 20.4,
+   "n_vertices": 90
+  },
+  {
+   "name": "carrot_0076",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 5.473,
+   "mass_kg": 0.00569,
+   "extents_mm": [
+    26.1,
+    22.5,
+    20.9
+   ],
+   "min_width_mm": 20.9,
+   "n_vertices": 82
+  },
+  {
+   "name": "carrot_0077",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 10.508,
+   "mass_kg": 0.01093,
+   "extents_mm": [
+    26.3,
+    27.1,
+    16.7
+   ],
+   "min_width_mm": 16.7,
+   "n_vertices": 84
+  },
+  {
+   "name": "carrot_0078",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.573,
+   "mass_kg": 0.00788,
+   "extents_mm": [
+    25.9,
+    31.7,
+    18.0
+   ],
+   "min_width_mm": 17.4,
+   "n_vertices": 66
+  },
+  {
+   "name": "carrot_0079",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 5.722,
+   "mass_kg": 0.00595,
+   "extents_mm": [
+    23.6,
+    28.5,
+    20.2
+   ],
+   "min_width_mm": 20.2,
+   "n_vertices": 60
+  },
+  {
+   "name": "carrot_0080",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 9.841,
+   "mass_kg": 0.01023,
+   "extents_mm": [
+    22.6,
+    25.0,
+    20.9
+   ],
+   "min_width_mm": 20.9,
+   "n_vertices": 74
+  },
+  {
+   "name": "carrot_0081",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 11.425,
+   "mass_kg": 0.01188,
+   "extents_mm": [
+    27.8,
+    28.8,
+    24.5
+   ],
+   "min_width_mm": 24.5,
+   "n_vertices": 94
+  },
+  {
+   "name": "carrot_0082",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.571,
+   "mass_kg": 0.00787,
+   "extents_mm": [
+    25.2,
+    28.8,
+    22.1
+   ],
+   "min_width_mm": 21.9,
+   "n_vertices": 54
+  },
+  {
+   "name": "carrot_0083",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 11.063,
+   "mass_kg": 0.01151,
+   "extents_mm": [
+    29.1,
+    21.2,
+    20.0
+   ],
+   "min_width_mm": 20.0,
+   "n_vertices": 82
+  },
+  {
+   "name": "carrot_0084",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.213,
+   "mass_kg": 0.0075,
+   "extents_mm": [
+    22.8,
+    28.9,
+    21.4
+   ],
+   "min_width_mm": 21.4,
+   "n_vertices": 102
+  },
+  {
+   "name": "carrot_0085",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 10.809,
+   "mass_kg": 0.01124,
+   "extents_mm": [
+    31.8,
+    25.8,
+    24.7
+   ],
+   "min_width_mm": 24.7,
+   "n_vertices": 80
+  },
+  {
+   "name": "carrot_0086",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 8.406,
+   "mass_kg": 0.00874,
+   "extents_mm": [
+    20.5,
+    22.9,
+    19.8
+   ],
+   "min_width_mm": 19.8,
+   "n_vertices": 64
+  },
+  {
+   "name": "carrot_0087",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.516,
+   "mass_kg": 0.00782,
+   "extents_mm": [
+    26.3,
+    31.6,
+    21.3
+   ],
+   "min_width_mm": 21.2,
+   "n_vertices": 66
+  },
+  {
+   "name": "carrot_0088",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 8.534,
+   "mass_kg": 0.00888,
+   "extents_mm": [
+    27.6,
+    28.5,
+    24.3
+   ],
+   "min_width_mm": 22.5,
+   "n_vertices": 84
+  },
+  {
+   "name": "carrot_0089",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 9.782,
+   "mass_kg": 0.01017,
+   "extents_mm": [
+    25.8,
+    23.8,
+    20.3
+   ],
+   "min_width_mm": 20.3,
+   "n_vertices": 68
+  },
+  {
+   "name": "carrot_0090",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 8.358,
+   "mass_kg": 0.00869,
+   "extents_mm": [
+    30.8,
+    26.5,
+    23.6
+   ],
+   "min_width_mm": 23.6,
+   "n_vertices": 36
+  },
+  {
+   "name": "carrot_0091",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.114,
+   "mass_kg": 0.0074,
+   "extents_mm": [
+    26.2,
+    28.7,
+    21.7
+   ],
+   "min_width_mm": 20.8,
+   "n_vertices": 34
+  },
+  {
+   "name": "carrot_0092",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 6.958,
+   "mass_kg": 0.00724,
+   "extents_mm": [
+    25.4,
+    20.5,
+    18.1
+   ],
+   "min_width_mm": 18.1,
+   "n_vertices": 86
+  },
+  {
+   "name": "carrot_0093",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 6.347,
+   "mass_kg": 0.0066,
+   "extents_mm": [
+    31.3,
+    22.9,
+    20.5
+   ],
+   "min_width_mm": 20.5,
+   "n_vertices": 104
+  },
+  {
+   "name": "carrot_0094",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 7.278,
+   "mass_kg": 0.00757,
+   "extents_mm": [
+    28.6,
+    27.0,
+    18.2
+   ],
+   "min_width_mm": 18.2,
+   "n_vertices": 78
+  },
+  {
+   "name": "carrot_0095",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 13.201,
+   "mass_kg": 0.01373,
+   "extents_mm": [
+    25.5,
+    27.4,
+    22.7
+   ],
+   "min_width_mm": 22.7,
+   "n_vertices": 90
+  },
+  {
+   "name": "carrot_0096",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 6.504,
+   "mass_kg": 0.00676,
+   "extents_mm": [
+    22.8,
+    29.6,
+    20.0
+   ],
+   "min_width_mm": 20.0,
+   "n_vertices": 80
+  },
+  {
+   "name": "carrot_0097",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 6.41,
+   "mass_kg": 0.00667,
+   "extents_mm": [
+    26.4,
+    24.3,
+    18.7
+   ],
+   "min_width_mm": 18.7,
+   "n_vertices": 62
+  },
+  {
+   "name": "carrot_0098",
+   "food": "carrot",
+   "style": "dice",
+   "volume_cm3": 11.119,
+   "mass_kg": 0.01156,
+   "extents_mm": [
+    22.7,
+    27.0,
+    20.9
+   ],
+   "min_width_mm": 20.9,
+   "n_vertices": 76
+  },
+  {
+   "name": "carrot_0099",
+   "food": "carrot",
+   "style": "random",
+   "volume_cm3": 9.584,
+   "mass_kg": 0.00997,
+   "extents_mm": [
+    29.4,
+    31.9,
+    25.8
+   ],
+   "min_width_mm": 23.2,
+   "n_vertices": 70
+  }
+ ]
+}
